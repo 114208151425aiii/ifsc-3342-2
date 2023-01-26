@@ -80,7 +80,7 @@ body {
 .alert{
 	background:#FFA500;
 	color:#FF0;
-	clear:both;
+	float:right;
 }
 .float-right{
 	float:right;
